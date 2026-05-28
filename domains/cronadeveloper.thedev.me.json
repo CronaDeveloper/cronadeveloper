@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "CronaDeveloper"
+  },
+  "records": {
+    "CNAME": "://vercel-dns-017.com",
+    "TXT": [
+      "vc-domain-verify=cronadeveloper.thedev.me,53247cc3321792cfacf0"
+    ]
+  }
+}
